@@ -1,0 +1,1 @@
+All solutions are in `script.js`. Please download as zip and open `index.html` to view the outputs in the console.
